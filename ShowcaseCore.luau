@@ -1,5 +1,5 @@
 --!strict
--- Discord: canesberg | Roblox: <YourRobloxUsername>
+-- Discord: canesberg | Roblox: cybropmc
 -- Module: TechShowcaseCore
 -- Purpose: Unified Procedural Math, Dynamic Physics Springs, and Spatial Visual Architecture
 -- Built for HiddenDevs Scripter Verification Showcase
