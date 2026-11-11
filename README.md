@@ -1,4 +1,3 @@
-# ⚡ Developer Profile
 
 ```luau
 --!strict
